@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.deepOrange,
         accentColor: Colors.deepPurple,
-        brightness: Brightness.dark,
+        brightness: Brightness.light,
       ),
       home: Scaffold(
           appBar: AppBar(
